@@ -262,3 +262,19 @@ Output:
 
 
 > For Emoji Unicode refer _[this](https://www.w3schools.com/charsets/ref_emoji.asp)_.
+
+## Bold Text
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bold Text Example</title>
+</head>
+<body>
+<p>The following word uses a <b>bold</b> typeface.</p>
+</body>
+</html>
+```
+
+
+
